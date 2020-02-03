@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"<Unnamed>","c":"Rectangulo_GBM","l":"area()"},{"p":"<Unnamed>","c":"Rectangulo_GBM","l":"perimetro()"},{"p":"<Unnamed>","c":"Rectangulo_GBM","l":"Rectangulo_GBM(String, double, double)","url":"%3Cinit%3E(java.lang.String,double,double)"}]
