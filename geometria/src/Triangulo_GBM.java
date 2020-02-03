@@ -23,12 +23,7 @@ public class Triangulo_GBM extends FiguraGeometrica_GBM
     public double area()
     { // Utiliza la formula de Her�n
         double sp;
-        sp = this.semiPerimetro();
+        sp = this.perimetro() / 2;
         return Math.sqrt(sp * (sp - lado1) * (sp - lado2) * (sp - lado3));
-    }
-    
-    public double semiPerimetro()
-    {
-        return this.perimetro() / 2;
     }
 }
